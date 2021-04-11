@@ -1,0 +1,7 @@
+• Variables:
+Es un elemento que podemos guardar , una vez guardado podemos usarlo
+siempre que lo necesitemos atravez del nombre que le hayamos puesto,
+la infomacion (datos) que guardamos dentro de ella puede ser de muchos
+tipo scomo numeros, palabras y mas. Su caracteristica mas comun es que
+se escriben sin espaciaos y la segunda palabra en mayuculas, seria asi:
+pecioFinal. Tambien puede ser asi Not
