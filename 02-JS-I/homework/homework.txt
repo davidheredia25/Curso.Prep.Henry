@@ -1,7 +1,36 @@
-• Variables:
-Es un elemento que podemos guardar , una vez guardado podemos usarlo
-siempre que lo necesitemos atravez del nombre que le hayamos puesto,
-la infomacion (datos) que guardamos dentro de ella puede ser de muchos
-tipo scomo numeros, palabras y mas. Su caracteristica mas comun es que
-se escriben sin espaciaos y la segunda palabra en mayuculas, seria asi:
-pecioFinal. Tambien puede ser asi Not
+• Variables: Es un elemento que podemos guardar (declarar), una vez guardado podemos usarlo
+siempre que lo necesitemos a través del nombre que le hayamos puesto,
+la información (datos) que guardamos dentro de ella puede ser de muchos
+tipos como números, palabras y más. Su característica más común es que
+se escriben sin espacios y la segunda palabra en mayúsculas, sería:
+pecioFinal. También puede ser NotaFinal, como la espalda de un camello
+se llama CamelCase.
+
+• Strings: Son partes de texto, digamos una palabra cualquiera (no pueden ser
+números). Siempre se escriben entre comillas, ya sea simple o doble.
+Cualquier texto es un Strings si es que está entre comillas.
+
+• Funciones(argumentos, return): Una función es agrupar código que después
+podemos volver a usar y cuantas veces se pueda. Los argumentos son como
+variables, código que escribimos dentro de la función  que va a tomar un valor
+cuando llamemos (invoquemos) esa función.
+Return se usa para finalizar una función, Si se escribe código debajo de return
+no va a funcionar, las funciones pueden retornar solo una vez.
+
+• Declaraciones if: If es una condición, es un si, si pasa eso ejecutar esto.
+Por ejemplo, estamos creando una aplicación donde solo pueden entrar personas
+mayores de edad, si se cumple la condición de ser mayor de edad podría entrar
+a la aplicación, sino cumple con esa condición aparece el else que sería sino,
+y la condición de no entrar.
+
+• Valores booleanos (true, false):Lo usamos par ver si el estado es verdadero(true) o falso
+(false).También significa , activar o desactivar, 0 o 1.
+
+
+
+
+
+
+
+
+
