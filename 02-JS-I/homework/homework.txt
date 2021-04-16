@@ -3,8 +3,8 @@ siempre que lo necesitemos a través del nombre que le hayamos puesto,
 la información (datos) que guardamos dentro de ella puede ser de muchos
 tipos como números, palabras y más. Su característica más común es que
 se escriben sin espacios y la segunda palabra en mayúsculas, sería:
-pecioFinal. También puede ser NotaFinal, como la espalda de un camello
-se llama CamelCase.
+pecioFinal. Se lo llama CamelCase como la espalda de un camello.
+
 
 • Strings: Son partes de texto, digamos una palabra cualquiera (no pueden ser
 números). Siempre se escriben entre comillas, ya sea simple o doble.
