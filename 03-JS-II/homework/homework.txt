@@ -1,0 +1,16 @@
+for: Es un buecle que nos ayuda a simplificar codigo. Se establece el valor inicial
+de la variablede control definida en la asignación inicial. Si el resultado es true
+se ejecuta el bloque de sentencias,se efectúa el cambio de la variablede control y se
+evalúa nuevamente la condición de continuación, siel resultado es false el bucle se termina.
+
+
+Operadores logicos: Nos devuelve un resultado a partir de que se cumpla o no unacierta condición,
+producen un resultado booleano. hay tres tipos de operadores.
+
+&&: AND (y). Si ambas expresiones son verdaderas es true,si una de las dos expresiones es falsa es
+false, si las dos son falsas es false.
+
+||: OR (o). Si ambas expreciones son falsas es false. El resto es true.
+
+!: NOT (no). Le da vuelta el significado, si una expresion es true la vuelve a false, si es false
+la vuelve a true.
