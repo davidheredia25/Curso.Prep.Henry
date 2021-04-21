@@ -1,0 +1,5 @@
+Arrays: En la vida real sería una caja con frutas adentro o otras cosas. En JS seria
+lo mismo, un contenedor que se le asigna un nombre con diferentes tipos de elementos que pueden
+ser de diferentes tipos de datos como, strings, números, booleanos, null, undefined y hasta otro
+array adentro. Estos elementos están ordenados dentro del array con una posición, empezando por 0,
+después 1 y así sucesivamente. 
