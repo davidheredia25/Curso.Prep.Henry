@@ -1,0 +1,26 @@
+Objetos: Es un elemento que creamos que tiene diferentes propiedades, es 
+fundamentan de JavaScript. Seria una variable con diferentes atributos.
+Para crear un objeto declaramos el objeto en una variable, despues las
+propiedades irian dentro de llaves.
+ejemplo:
+var perro = {
+    nombre:"astor",
+    edad: 10,
+}
+
+Propiedades: Es una asociacion entre un nombre (o clave) y un valor, en el
+ejemplo de arriba seria nombre y edad. Pueden ser de tipo string, number y 
+vuleano. 
+
+Métodos: Las funciones guardadas en un objeto se las denomina métodos, sirven
+para manipular las propiedades dentro del mismo. Algunos metodos que venimos
+utilizando como .length, .push, .pop, etc.
+
+Bucle `for…in`: Es un bucle que sirve para recorrer cada una de las propiedades
+de un objeto. Se escribe de esta manera, for entre parentesis declaramos una
+variable, la palabra clave in y el nombre del objeto. Esto recorrerá cada clave
+del objeto y finalizará cuando se hayan iterado todas las claves. Podemos usar
+esta clave, y la notación de corchetes, en nuestro bucle for para acceder al
+valor asociado con esa clave.
+
+
